@@ -12,6 +12,7 @@ import json
 import numpy as np
 import random
 
+# WTF!!!!
 
 # def get_pmids(keyword,retstart=1,max_results=100000):    
 #     """# gets PMIDs using keyword 
