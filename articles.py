@@ -12,6 +12,13 @@ import json
 import numpy as np
 import random
 
+# che za hernya???
+
+# https://www.ncbi.nlm.nih.gov/books/NBK25498/#chapter3.Application_3_Retrieving_large 
+# and 
+# https://www.ncbi.nlm.nih.gov/books/NBK25497/
+# to avoid using multiple requests
+
 
 # def get_pmids(keyword,retstart=1,max_results=100000):    
 #     """# gets PMIDs using keyword 
